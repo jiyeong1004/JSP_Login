@@ -1,0 +1,9 @@
+package util;
+
+import java.sql.Connection;
+
+public class DatabaseUtil {
+	public Connection getConnection() {
+		
+	}
+}

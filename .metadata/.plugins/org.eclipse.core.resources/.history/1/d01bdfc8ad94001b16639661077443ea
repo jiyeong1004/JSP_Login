@@ -1,0 +1,17 @@
+package util;
+
+import java.sql.Connection;
+
+public class DatabaseUtil {
+	public Connection getConnection() {
+		try {
+			String dbURL = "jdbc:mysql://localhost:3306/TUTORIAL";
+			String dbID = "root";
+			String dbPassword = "root";
+			Class.forName("com.mysql.jdbc.Driver);
+			
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

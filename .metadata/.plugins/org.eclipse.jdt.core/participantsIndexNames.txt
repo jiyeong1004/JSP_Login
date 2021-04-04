@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\JavaProjects\jsp_Login\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2830615768.index
+\HelloWorld\src
+D:\JavaProjects\jsp_LectureEvaluation\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2830615768.index
+\HelloWorld\src

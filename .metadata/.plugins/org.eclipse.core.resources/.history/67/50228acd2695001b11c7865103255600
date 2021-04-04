@@ -1,0 +1,21 @@
+package util;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class DatabaseUtil {
+	public static Connection getConnection() {
+		try {
+			// 데이터베이스 명 : TUTORIAL
+			// String dbURL = "jdbc:mysql://localhost:3306/데이터베이스 명?&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
+			String dbURL = "jdbc:mysql://localhost:3306/TUTORIAL?&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
+			String dbID = "root";
+			String dbPassword = "root";
+			Class.forName("com.mysql.jdbc.Driver");
+			return DriverManager.getConnection(dbURL, dbID, dbPassword);
+		} catch(Exception e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+}
