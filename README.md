@@ -12,6 +12,8 @@
 
 ![create_database_tutorial](https://github.com/jiyeong1004/JSP_Login/blob/main/image/create_database_tutorial.png)
 
+###### -- **** : root
+
 ###### -- TUTORIAL 데이터베이스 생성
 ##### CREATE DATABASE TUTORIAL;
 
