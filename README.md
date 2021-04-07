@@ -1,5 +1,7 @@
 # JSP 강의평가 웹 사이트 개발하기
 
+##### [동빈나님](https://github.com/ndb796)
+
 #### [동빈나_YouTube](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
 
 [2강 - JSP 개발환경 구축 및 테스트 (JSP Lecture Evaluation Service Development Tutorial #2)](https://www.youtube.com/watch?v=JCTB9GxD3ig)
