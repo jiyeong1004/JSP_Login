@@ -1,6 +1,6 @@
 # JSP 강의평가 웹 사이트 개발하기
 
-##### [Dongbin Na_Github](https://github.com/ndb796)
+##### [Dongbin Na_GitHub](https://github.com/ndb796)
 
 #### [동빈나_YouTube](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw)
 
