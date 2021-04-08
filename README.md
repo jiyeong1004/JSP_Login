@@ -1,4 +1,4 @@
-# JSP 강의평가 웹 사이트 개발하기
+# JSP - Login 만들기
 
 ##### [Dongbin Na_GitHub](https://github.com/ndb796)
 
